@@ -1,6 +1,6 @@
 # Vue 3 + Typescript + Vite
 
-yarn
+yarn \r
 yarn dev 
 or 
 npm install
