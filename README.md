@@ -1,15 +1,7 @@
 # Vue 3 + Typescript + Vite
 
-# 基于vue3 + ts + vite 开发的中后台项目
-
-# 已实现功能
-个人中心简历模板
-登录窗口
-
-# 目标实现功能
-监控数据页
-数据列表页
-数据的编辑、查看、添加
-账号的新增
-权限的分配
-实时聊天系统
+yarn
+yarn dev 
+or 
+npm install
+npm run dev
